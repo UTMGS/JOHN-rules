@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="360" height="200">
+<rect x="0" y="0" width="360" height="200" fill="#fff"/>
+<rect x="0" y="0" width="50" height="50" fill="#fff" stroke="#000"/>
+<rect x="0" y="50" width="50" height="50" fill="#fff" stroke="#000"/>
+<rect x="310" y="100" width="50" height="50" fill="#fff" stroke="#000"/>
+<rect x="310" y="150" width="50" height="50" fill="#fff" stroke="#000"/>
+<rect x="80" y="0" width="50" height="50" fill="#fff" stroke="#000"/>
+<rect x="130" y="0" width="50" height="50" fill="#fff" stroke="#000"/>
+<rect x="180" y="0" width="50" height="50" fill="#fff" stroke="#000"/>
+<rect x="230" y="0" width="50" height="50" fill="#fff" stroke="#000"/>
+<rect x="80" y="50" width="50" height="50" fill="#fff" stroke="#000"/>
+<rect x="130" y="50" width="50" height="50" fill="#fff" stroke="#000"/>
+<rect x="180" y="50" width="50" height="50" fill="#fff" stroke="#000"/>
+<rect x="230" y="50" width="50" height="50" fill="#fff" stroke="#000"/>
+<rect x="80" y="100" width="50" height="50" fill="#fff" stroke="#000"/>
+<rect x="130" y="100" width="50" height="50" fill="#fff" stroke="#000"/>
+<rect x="180" y="100" width="50" height="50" fill="#fff" stroke="#000"/>
+<rect x="230" y="100" width="50" height="50" fill="#fff" stroke="#000"/>
+<rect x="80" y="150" width="50" height="50" fill="#fff" stroke="#000"/>
+<rect x="130" y="150" width="50" height="50" fill="#fff" stroke="#000"/>
+<rect x="180" y="150" width="50" height="50" fill="#fff" stroke="#000"/>
+<rect x="230" y="150" width="50" height="50" fill="#fff" stroke="#000"/>
+<rect x="10.0" y="3.75" width="30.0" height="42.5" rx="5" ry="5" fill="#fff" stroke="#000" stroke-width="1"/>
+<rect x="12.0" y="5.75" width="26.0" height="38.5" rx="3" ry="3" fill="#000" stroke="none"/>
+<rect x="10.0" y="53.75" width="30.0" height="42.5" rx="5" ry="5" fill="#fff" stroke="#000" stroke-width="1"/>
+<text font-family="Noto Sans, sans-serif" x="25" y="84" font-size="18" fill="red" text-anchor="middle" dominant-baseline="middle">♥</text>
+<text font-family="Noto Sans, sans-serif" x="25" y="68" font-size="18" fill="red" text-anchor="middle" dominant-baseline="middle">6</text>
+<rect x="190.0" y="103.75" width="30.0" height="42.5" rx="5" ry="5" fill="#fff" stroke="#000" stroke-width="1"/>
+<text font-family="Noto Sans, sans-serif" x="205" y="134" font-size="18" fill="red" text-anchor="middle" dominant-baseline="middle">♥</text>
+<text font-family="Noto Sans, sans-serif" x="205" y="118" font-size="18" fill="red" text-anchor="middle" dominant-baseline="middle">A</text>
+<rect x="320.0" y="103.75" width="30.0" height="42.5" rx="5" ry="5" fill="#fff" stroke="#000" stroke-width="1"/>
+<text font-family="Noto Sans, sans-serif" x="335" y="134" font-size="18" fill="black" text-anchor="middle" dominant-baseline="middle">♠</text>
+<text font-family="Noto Sans, sans-serif" x="335" y="118" font-size="18" fill="black" text-anchor="middle" dominant-baseline="middle">5</text>
+<rect x="320.0" y="153.75" width="30.0" height="42.5" rx="5" ry="5" fill="#fff" stroke="#000" stroke-width="1"/>
+<rect x="322.0" y="155.75" width="26.0" height="38.5" rx="3" ry="3" fill="#000" stroke="none"/>
+</svg>

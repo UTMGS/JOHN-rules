@@ -3,7 +3,7 @@
 ## 著作権表示（Copyright Notice）
 
 © 2025 [Shinya Kutsuwada (UTMGS)].  
-This work, including all rules, texts, diagrams, and assets related to the game "ジョン", is protected by copyright.
+This work, including all rules, texts, diagrams, and assets related to the game "ジョン（JOHN）", is protected by copyright.
 
 All rights reserved under the Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License (CC BY-NC-ND 4.0).
 
@@ -11,7 +11,7 @@ All rights reserved under the Creative Commons Attribution-NonCommercial-NoDeriv
 
 ## ライセンス概要（Summary）
 
-この作品「ジョン」の内容は、次の条件のもとで利用可能です。
+この作品「ジョン（JOHN）」の内容は、次の条件のもとで利用可能です。
 
 - **表示（BY）**：著作権者の名前（[Shinya Kutsuwada (UTMGS)]）を明記してください。
 - **非営利（NC）**：営利目的での使用はできません。
@@ -42,7 +42,7 @@ All rights reserved under the Creative Commons Attribution-NonCommercial-NoDeriv
 
 以下のように明記してください：
 
-> 「ジョン」© 2025 [Shinya Kutsuwada (UTMGS)]  
+> 「ジョン（JOHN）」© 2025 [Shinya Kutsuwada (UTMGS)]  
 > 使用ライセンス：CC BY-NC-ND 4.0  
 https://creativecommons.org/licenses/by-nc-nd/4.0/
 

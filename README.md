@@ -12,7 +12,7 @@
 
 くわしいルールや、図を使った説明は [`index.md`](index.md) に書いてあります。  
 ウェブページでも見ることができます：  
-👉 https://utmgs.github.io/john/
+👉 https://utmgs.github.io/JOHN/
 
 ## ロゴや図について
 

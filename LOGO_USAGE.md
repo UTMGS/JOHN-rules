@@ -24,9 +24,8 @@
 ---
 
 ##  使用時の推奨表示例（クレジット）
-
-> 「ジョン（JOHN）」公式ロゴ  
-> © 2025 [Shinya Kutsuwada(UTMGS)]. All Rights Reserved.
+> <img src="assets/images/john_logo.png" alt="ジョン（JOHN）公式ロゴ" width="100"/><br/>
+© 2025 [Shinya Kutsuwada(UTMGS)]. All Rights Reserved.
 
 ---
 

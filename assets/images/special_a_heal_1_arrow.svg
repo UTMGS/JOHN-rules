@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" width="360" height="200">
+<rect x="0" y="0" width="360" height="200" fill="#fff" />
+<rect x="0" y="0" width="50" height="50" fill="#fff" stroke="#000" />
+<rect x="0" y="50" width="50" height="50" fill="#fff" stroke="#000" />
+<rect x="310" y="100" width="50" height="50" fill="#fff" stroke="#000" />
+<rect x="310" y="150" width="50" height="50" fill="#fff" stroke="#000" />
+<rect x="80" y="0" width="50" height="50" fill="#fff" stroke="#000" />
+<rect x="130" y="0" width="50" height="50" fill="#fff" stroke="#000" />
+<rect x="180" y="0" width="50" height="50" fill="#fff" stroke="#000" />
+<rect x="230" y="0" width="50" height="50" fill="#fff" stroke="#000" />
+<rect x="80" y="50" width="50" height="50" fill="#fff" stroke="#000" />
+<rect x="130" y="50" width="50" height="50" fill="#fff" stroke="#000" />
+<rect x="180" y="50" width="50" height="50" fill="#fff" stroke="#000" />
+<rect x="230" y="50" width="50" height="50" fill="#fff" stroke="#000" />
+<rect x="80" y="100" width="50" height="50" fill="#fff" stroke="#000" />
+<rect x="130" y="100" width="50" height="50" fill="#fff" stroke="#000" />
+<rect x="180" y="100" width="50" height="50" fill="#fff" stroke="#000" />
+<rect x="230" y="100" width="50" height="50" fill="#fff" stroke="#000" />
+<rect x="80" y="150" width="50" height="50" fill="#fff" stroke="#000" />
+<rect x="130" y="150" width="50" height="50" fill="#fff" stroke="#000" />
+<rect x="180" y="150" width="50" height="50" fill="#fff" stroke="#000" />
+<rect x="230" y="150" width="50" height="50" fill="#fff" stroke="#000" />
+<rect x="140.0" y="153.75" width="30.0" height="42.5" rx="5" ry="5" fill="#fff" stroke="#000" stroke-width="1" />
+<text font-family="Noto Sans, sans-serif" x="155" y="184" font-size="18" fill="black" text-anchor="middle" dominant-baseline="middle">♣</text>
+<text font-family="Noto Sans, sans-serif" x="155" y="168" font-size="18" fill="black" text-anchor="middle" dominant-baseline="middle">3</text>
+<rect x="190.0" y="153.75" width="30.0" height="42.5" rx="5" ry="5" fill="#fff" stroke="#000" stroke-width="1" />
+<text font-family="Noto Sans, sans-serif" x="205" y="184" font-size="18" fill="black" text-anchor="middle" dominant-baseline="middle">♠</text>
+<text font-family="Noto Sans, sans-serif" x="205" y="168" font-size="18" fill="black" text-anchor="middle" dominant-baseline="middle">A</text>
+<text x="180.0" y="190.0" fill="red" font-size="55" text-anchor="middle">←</text>
+<text x="180.0" y="190.0" fill="red" font-size="55" text-anchor="middle">→</text>
+</svg>

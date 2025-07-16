@@ -1,5 +1,4 @@
 # ジョン（JOHN）説明書
-![ボードのイメージ図](assets/images/board_image.png)
 
 ---
 

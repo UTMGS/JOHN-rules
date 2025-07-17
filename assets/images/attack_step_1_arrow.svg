@@ -26,6 +26,6 @@
 <rect x="190.0" y="103.75" width="30.0" height="42.5" rx="5" ry="5" fill="#fff" stroke="#000" stroke-width="1"/>
 <text font-family="Noto Sans, sans-serif" x="205" y="134" font-size="18" fill="black" text-anchor="middle" dominant-baseline="middle">♠</text>
 <text font-family="Noto Sans, sans-serif" x="205" y="118" font-size="18" fill="black" text-anchor="middle" dominant-baseline="middle">6</text>
-<text x="205.0" y="120.0" fill="red" font-size="55" text-anchor="middle">↓</text>
-<text x="205.0" y="120.0" fill="red" font-size="55" text-anchor="middle">↑</text>
+<text x="195.0" y="114.0" fill="red" font-size="55" text-anchor="middle">↓</text>
+<text x="195.0" y="114.0" fill="red" font-size="55" text-anchor="middle">↑</text>
 </svg>

@@ -24,13 +24,10 @@
 <rect x="12.0" y="5.75" width="26.0" height="38.5" rx="3" ry="3" fill="#000" stroke="none"/>
 <rect x="10.0" y="53.75" width="30.0" height="42.5" rx="5" ry="5" fill="#fff" stroke="#000" stroke-width="1"/>
 <text font-family="Noto Sans, sans-serif" x="25" y="84" font-size="18" fill="red" text-anchor="middle" dominant-baseline="middle">♥</text>
-<text font-family="Noto Sans, sans-serif" x="25" y="68" font-size="18" fill="red" text-anchor="middle" dominant-baseline="middle">2</text>
+<text font-family="Noto Sans, sans-serif" x="25" y="68" font-size="18" fill="red" text-anchor="middle" dominant-baseline="middle">6</text>
 <rect x="190.0" y="53.75" width="30.0" height="42.5" rx="5" ry="5" fill="#fff" stroke="#000" stroke-width="1"/>
 <text font-family="Noto Sans, sans-serif" x="205" y="84" font-size="18" fill="black" text-anchor="middle" dominant-baseline="middle">♠</text>
 <text font-family="Noto Sans, sans-serif" x="205" y="68" font-size="18" fill="black" text-anchor="middle" dominant-baseline="middle">5</text>
-<rect x="190.0" y="103.75" width="30.0" height="42.5" rx="5" ry="5" fill="#fff" stroke="#000" stroke-width="1"/>
-<text font-family="Noto Sans, sans-serif" x="205" y="134" font-size="18" fill="red" text-anchor="middle" dominant-baseline="middle">♥</text>
-<text font-family="Noto Sans, sans-serif" x="205" y="118" font-size="18" fill="red" text-anchor="middle" dominant-baseline="middle">6</text>
 <rect x="320.0" y="103.75" width="30.0" height="42.5" rx="5" ry="5" fill="#fff" stroke="#000" stroke-width="1"/>
 <text font-family="Noto Sans, sans-serif" x="335" y="134" font-size="18" fill="black" text-anchor="middle" dominant-baseline="middle">♣</text>
 <text font-family="Noto Sans, sans-serif" x="335" y="118" font-size="18" fill="black" text-anchor="middle" dominant-baseline="middle">10</text>
